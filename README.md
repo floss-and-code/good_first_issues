@@ -1,4 +1,4 @@
-# Here are some good_first_issues
+# Here are some good first issues
 
 There is a project board with [Good First Issues](https://github.com/orgs/ohub-floss-atl/projects/1)
 
